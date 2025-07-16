@@ -2,16 +2,16 @@ html {
     scroll-behavior: smooth;
 }
 :root {
-    color-primary: #d73953;
-    color-black: #090909;
-    color-white: #ffffff;
-    color-light-grey: #f3f3f3;
-    color-dark-grey: #353535;
-    text-color: color-black;
+    -color-primary: #d73953;
+    -color-black: #090909;
+    -color-white: #ffffff;
+    -color-light-grey: #f3f3f3;
+    -color-dark-grey: #353535;
+    -text-color: color-black;
 }
 
 body {
-    color: text-color;
+    -color: text-color;
 }
 
 a {
@@ -23,9 +23,9 @@ a {
 }
 
 .card-category {
-    color: color-primary;
+    -color: color-primary;
 }
 
 .section-tagline {
-    color: color-primary;
+    -color: color-primary;
 }
