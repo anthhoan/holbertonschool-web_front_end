@@ -226,7 +226,7 @@ ul.row {
 }
 
 .section-hero {
-    background-size: 2vmax;
+    background-size: cover center;
     width: 90rem;
     height: auto;
 }
