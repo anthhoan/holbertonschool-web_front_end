@@ -256,10 +256,10 @@ ul.row {
 .card-work .card-title a {
     display: block;
     text-decoration: none;
-    padding: 0.45rem 0 0;
+    padding: 45%
 }
 
-.card-work::after .card-title {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
